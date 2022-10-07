@@ -1,1 +1,3 @@
-It is a guessing game in which the user guesses the hidden number till he or she gets it right.
+# Guess Number App
+
+A number guessing game where users guess the hidden number till they get it right
